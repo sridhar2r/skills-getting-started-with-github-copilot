@@ -86,6 +86,10 @@ section h3 {
   font-size: 0.95em;
 }
 
+ul {
+    list-style-type: none;
+}
+
 .form-group {
   margin-bottom: 15px;
 }
